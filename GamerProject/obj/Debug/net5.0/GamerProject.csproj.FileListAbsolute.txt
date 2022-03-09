@@ -1,0 +1,16 @@
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\GamerProject.exe
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\GamerProject.deps.json
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\GamerProject.runtimeconfig.json
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\GamerProject.runtimeconfig.dev.json
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\GamerProject.dll
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\ref\GamerProject.dll
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\bin\Debug\net5.0\GamerProject.pdb
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.csproj.AssemblyReference.cache
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.AssemblyInfoInputs.cache
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.AssemblyInfo.cs
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.csproj.CoreCompileInputs.cache
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.dll
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\ref\GamerProject.dll
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.pdb
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\GamerProject\obj\Debug\net5.0\GamerProject.genruntimeconfig.cache

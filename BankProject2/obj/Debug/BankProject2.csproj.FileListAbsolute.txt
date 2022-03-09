@@ -1,0 +1,7 @@
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\bin\Debug\BankProject2.exe.config
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\bin\Debug\BankProject2.exe
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\bin\Debug\BankProject2.pdb
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\obj\Debug\BankProject2.csproj.AssemblyReference.cache
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\obj\Debug\BankProject2.csproj.CoreCompileInputs.cache
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\obj\Debug\BankProject2.exe
+C:\Users\erdal\OneDrive\Masaüstü\C# Kodları\KampIntro\BankProject2\obj\Debug\BankProject2.pdb

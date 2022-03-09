@@ -1,0 +1,15 @@
+C:\Users\erdal\source\repos\ReCapProject\Data Access\bin\Debug\net5.0\Data Access.deps.json
+C:\Users\erdal\source\repos\ReCapProject\Data Access\bin\Debug\net5.0\Data Access.dll
+C:\Users\erdal\source\repos\ReCapProject\Data Access\bin\Debug\net5.0\ref\Data Access.dll
+C:\Users\erdal\source\repos\ReCapProject\Data Access\bin\Debug\net5.0\Data Access.pdb
+C:\Users\erdal\source\repos\ReCapProject\Data Access\bin\Debug\net5.0\Entities.dll
+C:\Users\erdal\source\repos\ReCapProject\Data Access\bin\Debug\net5.0\Entities.pdb
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.csproj.AssemblyReference.cache
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.AssemblyInfoInputs.cache
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.AssemblyInfo.cs
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.csproj.CoreCompileInputs.cache
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.csproj.CopyComplete
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.dll
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\ref\Data Access.dll
+C:\Users\erdal\source\repos\ReCapProject\Data Access\obj\Debug\net5.0\Data Access.pdb

@@ -1,0 +1,17 @@
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Bussiness.deps.json
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Bussiness.dll
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\ref\Bussiness.dll
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Bussiness.pdb
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Data Access.dll
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Entities.dll
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Data Access.pdb
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\bin\Debug\net5.0\Entities.pdb
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.AssemblyInfo.cs
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.csproj.CopyComplete
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.dll
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\ref\Bussiness.dll
+C:\Users\erdal\source\repos\ReCapProject\Bussiness\obj\Debug\net5.0\Bussiness.pdb
